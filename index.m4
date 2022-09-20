@@ -43,7 +43,7 @@ m4_navbar()
       <div class="demo-options mdl-card__supporting-text mdl-color-text--grey-900">
         <p>
 	  <b>Office hour:</b> 
-	  Friday, 11:00-12:00.
+	  Thursday, 16:00-17:00.
 	</p>		
         <p>
 	  <b>PhD projects:</b> Projects in fluid mechanics are available.
