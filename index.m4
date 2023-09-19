@@ -43,13 +43,14 @@ m4_navbar()
       <div class="demo-options mdl-card__supporting-text mdl-color-text--grey-900">
         <p>
 	  <b>Office hour:</b> 
-	  Thursday, 13:30-14:30.
+	  Tuesday, 10:30-11:30.
 	</p>		
         <p>
-	  <b>PhD projects:</b> Projects in fluid mechanics are available.
-	  These will typically be a combination of theoretical (asymptotic)
-	  analysis and numerical methods. Please email me if you are interested
-	  in pursuing a project in this area.
+	<b>PhD projects:</b> I usually have projects available in high-speed flow,
+        geophysical flow and industrial modelling.
+	These will typically be a combination of theoretical (asymptotic)
+	analysis, custom numerical approaches and modelling.
+        Please email me if you are interested in pursuing a project.
 	</p>
 	<h4>Research topics</h4>
 	<p>
@@ -66,10 +67,11 @@ m4_navbar()
 	   <li>Stratified flows</li>
 	   <li>Particle-laden flows</li>
           </ol>
-	   </li>
-	   <li>Asymptotic and computational methods</li>
-	   </ul>
-	 </p>
+	  </li>
+	  <li>Asymptotic and computational methods</li>
+          <li>Corrosion modelling and reaction-advection-diffusion systems.</li>
+	  </ul>
+	</p>
          
        </div>
      </div>
