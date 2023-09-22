@@ -46,7 +46,7 @@ m4_navbar()
 	  Tuesday, 10:30-11:30.
 	</p>		
         <p>
-	<b>PhD projects:</b> I usually have projects available in high-speed flow,
+	<b>PhD projects:</b> I have projects available in high-speed flow,
         geophysical flow and industrial modelling.
 	These will typically be a combination of theoretical (asymptotic)
 	analysis, custom numerical approaches and modelling.
