@@ -43,7 +43,7 @@ m4_navbar()
       <div class="demo-options mdl-card__supporting-text mdl-color-text--grey-900">
         <p>
 	  <b>Office hour:</b> 
-	  Friday, 12:30-13:30.
+	  Tue, 10:00-11:00.
 	</p>		
         <p>
 	<b>PhD projects:</b> I have projects available in high-speed flow,
